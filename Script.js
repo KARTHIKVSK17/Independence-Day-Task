@@ -20,7 +20,7 @@ setTimeout(()=>{
                                     setTimeout(()=>{
                                         document.getElementById('countdown').innerHTML = 1;
                                         setTimeout(()=>{
-                                            document.getElementById('countdown').innerHTML = 'Happy New Year';
+                                            document.getElementById('countdown').innerHTML = 'Happy Independence Day';
                                         },1000)
                                     },1000)
                                 },1000)
